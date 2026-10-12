@@ -1,0 +1,10 @@
+# Publication assets kept out of normal Git history
+*.zip
+*.jpg
+*.jpeg
+*.png
+The_Way_of_Investing_v1.0.pdf
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
